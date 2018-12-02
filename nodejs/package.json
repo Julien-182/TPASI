@@ -1,0 +1,26 @@
+{
+  "name": "tp",
+  "version": "1.0.0",
+  "description": "Premier tp d'ASI",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha ./tests",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "tp"
+  ],
+  "author": "Julien DUCROT, Maxence BARJON, Eloi MOUREZ",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mocha": "^5.2.0",
+    "multer": "^1.4.1",
+    "socket.io": "^2.1.1"
+  },
+  "private": true
+}
