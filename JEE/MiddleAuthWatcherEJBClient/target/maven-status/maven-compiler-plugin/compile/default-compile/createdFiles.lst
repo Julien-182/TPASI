@@ -1,0 +1,6 @@
+ejb/ejb/MessageSenderLocal.class
+ejb/model/Role.class
+ejb/data/UserRepository.class
+ejb/ejb/MessageSenderQueueLocal.class
+ejb/ejb/MessageReceiverSyncLocal.class
+ejb/model/User.class

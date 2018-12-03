@@ -1,0 +1,6 @@
+/home/cpe/Documents/JavaEE/Projet/MiddleAuthWatcherEJBClient/src/main/java/ejb/data/UserRepository.java
+/home/cpe/Documents/JavaEE/Projet/MiddleAuthWatcherEJBClient/src/main/java/ejb/ejb/MessageSenderQueueLocal.java
+/home/cpe/Documents/JavaEE/Projet/MiddleAuthWatcherEJBClient/src/main/java/ejb/ejb/MessageSenderLocal.java
+/home/cpe/Documents/JavaEE/Projet/MiddleAuthWatcherEJBClient/src/main/java/ejb/model/Role.java
+/home/cpe/Documents/JavaEE/Projet/MiddleAuthWatcherEJBClient/src/main/java/ejb/ejb/MessageReceiverSyncLocal.java
+/home/cpe/Documents/JavaEE/Projet/MiddleAuthWatcherEJBClient/src/main/java/ejb/model/User.java
